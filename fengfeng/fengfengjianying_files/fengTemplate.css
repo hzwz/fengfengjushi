@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif,"宋体";
+	background: #002200;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: #aaaaaa;
+	line-height:150%;
+}
+
+A:link {
+      color:#009900; text-decoration:None
+}
+A:visited {
+       color:#974B00;text-decoration:None
+}
+A:active {
+       color:#D96C00;text-decoration:None
+}
+A:hover {
+       color:#FF8000;text-decoration:None;position: relative;top:1px;
+}
+
+p {
+	text-indent:2em;
+}
+
+h4 {
+	text-indent:5px;
+}
+
+tr,td {
+	font-size:14px;
+	vertical-align:top;
+	text-indent:0em;
+}
+
+.oneColLiqCtr #container {
+	width: 99%;
+	background-image:url(../Images/bg.jpg);
+	margin: 0 auto;
+	border: 1px solid #000000;
+	text-align: left;
+}
+.oneColLiqCtr #mainContent {
+	padding: 3px 20px 0px 20px;
+}
+
+.TuChu {
+	color: #FF8000;
+}
+
+.TuChu1 {
+	color:#3399FF;
+}
+
+.TuChu2 {
+	color: #993300;
+}
+
+.Zhu {
+	font-size: 10pt;
+	color: #663300;
+}
+
+.zone {
+	font-size:13px;
+	line-height:130%;
+	margin:40px;
+}
